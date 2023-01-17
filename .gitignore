@@ -1,0 +1,5 @@
+.venv/
+archived/
+mlruns*/
+*.db
+**/__pycache__
